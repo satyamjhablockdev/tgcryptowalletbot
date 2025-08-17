@@ -1,6 +1,19 @@
 # 🚀 Complete Guide to Create Your Own Telegram Bot Wallet
 
 <div align="center">
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+**🔥 A professional, secure, and feature-rich Telegram bot for managing crypto wallets across 10+ EVM chains**
+
+*Built by [Satyam Jha](https://github.com/satyamjhablockdev) - Bringing DeFi to Telegram*
+
+[🚀 Live Demo](https://t.me/cryptowalletbysjbot) • [📖 Documentation](#documentation) • [🛠️ Quick Start](#quick-start) • [🤝 Contributing](#contributing)
+
 <h2>📱 Multi-Chain Crypto Wallet Bot</h2>
 <p><strong>Guide by ~ Satyam Jha</strong></p>
 <p>Build a professional crypto wallet bot supporting 10+ EVM chains</p>
